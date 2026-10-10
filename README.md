@@ -27,3 +27,5 @@ Database setup and local configuration may be required before running the applic
 
 ## Network URL
 http://192.168.29.153:8502/
+http://localhost:8501/
+
