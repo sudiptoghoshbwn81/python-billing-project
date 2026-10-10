@@ -25,9 +25,4 @@ A Python-based billing application that uses MySQL for database operations and Q
 ## Note
 Database setup and local configuration may be required before running the application.
 
-## Network URL
-http://192.168.29.153:8502/
-
-
-http://localhost:8501/
 
