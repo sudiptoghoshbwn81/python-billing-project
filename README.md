@@ -7,7 +7,8 @@ A Python-based billing application that uses MySQL for database operations and Q
 - Python
 - MySQL
 - OpenCV 
-- Pyzbar 
+- Pyzbar
+- Streamlit
   
 
 ## Project Files
