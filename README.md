@@ -10,7 +10,6 @@ A Python-based billing application that uses MySQL for database operations and Q
 - Pyzbar
 - Streamlit
   
-
 ## Project Files
 - `billing_app.py` — Main billing application.
 - `QR_Code_Scanner.py` — QR code scanning functionality.
@@ -25,3 +24,6 @@ A Python-based billing application that uses MySQL for database operations and Q
 
 ## Note
 Database setup and local configuration may be required before running the application.
+
+## Network URL
+http://192.168.29.153:8502/
